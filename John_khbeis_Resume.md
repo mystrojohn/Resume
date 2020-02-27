@@ -1,7 +1,7 @@
 "# Resume" > [johnkhbeis@gmail.com](mailto:johnkhbeis@gmail.com) | 
-[909.530.9828]:9095309828)
+[909.530.9828] : (9095309828)
 
-# Stephen Khbeis &ndash; Senior Software Engineer
+# John Khbeis &ndash; Senior Software Engineer
 - 7+ years of experience as a software engineer in various industries
 - Full stack engineer with a concentration on front-end technologies
 - Trained and mentored several front-end engineers
